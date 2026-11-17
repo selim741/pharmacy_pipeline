@@ -1,0 +1,3 @@
+pipeline.conf
+*.conf
+env/
